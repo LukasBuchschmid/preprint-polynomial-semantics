@@ -1,0 +1,1 @@
+The PDF provided here is the original preprint submitted for review. During the peer-review process, a few minor errors were identified (specifically regarding Construction 4.2 and Lemma 5.31). These do not affect the main equivalence result and will be corrected in the final camera-ready version.
